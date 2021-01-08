@@ -44,15 +44,24 @@ def writeToCsv():
     
 
 
-
 soup = BeautifulSoup(page.content, 'html.parser')
-resultsListing = soup.find(id="results-listing")
-# print(resultsListing.prettify())
 
-listingItems = soup.find('div','listing-item-row')
+listingItems = soup.find_all('div', class_ = 'listing-item-row')
 
-print(len(listingItems))
-print(listingItems.prettify)
+for listing in listingItems:
+  listingId = listing.find('span', class_ = "top-listing-number")
+  niche = listing.find('div', class_ = "col col-3 niche")
+  monthlyNet = listing.find('div', class_ = "col col-2 monthly-net-profit").find("span", recursive=False)
+  priceNet = listing.find('div', class_ = "col price").find("span", recursive=False)
+
+  out = {
+    "listingId": listingId.text.strip(), 
+    "niche": niche.text.strip(),
+    "monthlyNet": monthlyNet.text.strip(),
+    "price": priceNet.text.strip()
+    }
+
+  print(out)
 
 
 
