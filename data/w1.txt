@@ -1,0 +1,94 @@
+{'listingId': '#50184', 'niche': 'Apparel & Accessories', 'monthlyNet': '$34,798', 'price': '$1,705,126'}
+{'listingId': '#50247', 'niche': 'Business, Lifestyle', 'monthlyNet': '$12,144', 'price': '$534,314'}
+{'listingId': '#50244', 'niche': 'Technology', 'monthlyNet': '$11,389', 'price': '$501,102'}
+{'listingId': '#50022', 'niche': 'Sports', 'monthlyNet': '$5,044', 'price': '$252,177'}
+{'listingId': '#50556', 'niche': 'Automotive', 'monthlyNet': '$3,911', 'price': '$148,603'}
+{'listingId': '#50327', 'niche': 'Apparel & Accessories', 'monthlyNet': '$2,236', 'price': '$78,273'}
+{'listingId': '#49742', 'niche': 'Home', 'monthlyNet': '$223,998', 'price': '$10,303,887'}
+{'listingId': '#47466', 'niche': 'Medical, Equipment', 'monthlyNet': '$122,114', 'price': '$7,082,554'}
+{'listingId': '#49364', 'niche': 'Apparel & Accessories, Health & Fitness', 'monthlyNet': '$131,568', 'price': '$6,578,407'}
+{'listingId': '#47853', 'niche': 'Home, Kitchenware', 'monthlyNet': '$96,500', 'price': '$5,018,008'}
+{'listingId': '#49215', 'niche': 'Children', 'monthlyNet': '$102,372', 'price': '$5,016,218'}
+{'listingId': '#48704', 'niche': 'Legal', 'monthlyNet': '$114,677', 'price': '$4,472,415'}
+{'listingId': '#48314', 'niche': 'Sports', 'monthlyNet': '$93,858', 'price': '$4,317,488'}
+{'listingId': '#48259', 'niche': 'Apparel & Accessories', 'monthlyNet': '$139,745', 'price': '$3,633,374'}
+{'listingId': '#49202', 'niche': 'Beauty', 'monthlyNet': '$76,170', 'price': '$3,199,155'}
+{'listingId': '#47101', 'niche': 'Occasions & Gifts', 'monthlyNet': '$58,558', 'price': '$1,932,422'}
+{'listingId': '#49133', 'niche': 'Beauty', 'monthlyNet': '$44,717', 'price': '$1,833,395'}
+{'listingId': '#48568', 'niche': 'Art', 'monthlyNet': '$50,492', 'price': '$1,820,582'}
+{'listingId': '#47242', 'niche': 'Survival & Security', 'monthlyNet': '$49,113', 'price': '$1,669,854'}
+{'listingId': '#48344', 'niche': 'Home, Kitchenware', 'monthlyNet': '$35,090', 'price': '$1,438,692'}
+{'listingId': '#49028', 'niche': 'Pet Care, Home, Children, Office Supply', 'monthlyNet': '$34,101', 'price': '$1,432,254'}
+{'listingId': '#48865', 'niche': 'Entertainment', 'monthlyNet': '$42,680', 'price': '$1,365,766'}
+{'listingId': '#47592', 'niche': 'Apparel & Accessories, Occasions & Gifts', 'monthlyNet': '$39,673', 'price': '$1,269,524'}
+{'listingId': '#49634', 'niche': 'Pet Care', 'monthlyNet': '$26,469', 'price': '$1,138,146'}
+{'listingId': '#49784', 'niche': 'Finance', 'monthlyNet': '$23,309', 'price': '$1,118,824'}
+{'listingId': '#47834', 'niche': 'Entertainment', 'monthlyNet': '$22,099', 'price': '$1,104,944'}
+{'listingId': '#48289', 'niche': 'Technology', 'monthlyNet': '$27,621', 'price': '$994,360'}
+{'listingId': '#46603', 'niche': 'Health & Fitness', 'monthlyNet': '$27,738', 'price': '$915,366'}
+{'listingId': '#48527', 'niche': 'Business', 'monthlyNet': '$25,839', 'price': '$878,526'}
+{'listingId': '#48832', 'niche': 'Books', 'monthlyNet': '$18,655', 'price': '$783,489'}
+{'listingId': '#50140', 'niche': 'Health & Fitness, Food & Beverages', 'monthlyNet': '$16,702', 'price': '$768,277'}
+{'listingId': '#48345', 'niche': 'Technology', 'monthlyNet': '$25,919', 'price': '$751,653'}
+{'listingId': '#46538', 'niche': 'Business', 'monthlyNet': '$14,102', 'price': '$747,403'}
+{'listingId': '#50141', 'niche': 'Finance', 'monthlyNet': '$19,065', 'price': '$743,540'}
+{'listingId': '#47601', 'niche': 'Equipment', 'monthlyNet': '$24,536', 'price': '$686,994'}
+{'listingId': '#47214', 'niche': 'Beauty', 'monthlyNet': '$24,154', 'price': '$676,317'}
+{'listingId': '#49862', 'niche': 'Supplements', 'monthlyNet': '$15,648', 'price': '$641,548'}
+{'listingId': '#48443', 'niche': 'Finance', 'monthlyNet': '$18,084', 'price': '$596,774'}
+{'listingId': '#47864', 'niche': 'Automotive', 'monthlyNet': '$22,759', 'price': '$591,736'}
+{'listingId': '#48446', 'niche': 'News & Education', 'monthlyNet': '$18,109', 'price': '$579,486'}
+{'listingId': '#49624', 'niche': 'Home', 'monthlyNet': '$17,300', 'price': '$570,913'}
+{'listingId': '#48427', 'niche': 'Personal Care, Supplements, Beauty', 'monthlyNet': '$14,500', 'price': '$522,008'}
+{'listingId': '#49802', 'niche': 'Kitchenware', 'monthlyNet': '$12,696', 'price': '$520,552'}
+{'listingId': '#48363', 'niche': 'Office Supply', 'monthlyNet': '$15,526', 'price': '$512,373'}
+{'listingId': '#49170', 'niche': 'Occasions & Gifts', 'monthlyNet': '$14,090', 'price': '$507,239'}
+{'listingId': '#48627', 'niche': 'Office Supply', 'monthlyNet': '$13,238', 'price': '$450,100'}
+{'listingId': '#49103', 'niche': 'Apparel & Accessories', 'monthlyNet': '$12,063', 'price': '$434,279'}
+{'listingId': '#47835', 'niche': 'Electronics', 'monthlyNet': '$16,350', 'price': '$425,107'}
+{'listingId': '#49162', 'niche': 'Pet Care', 'monthlyNet': '$11,938', 'price': '$405,894'}
+{'listingId': '#47489', 'niche': 'Gaming', 'monthlyNet': '$9,632', 'price': '$385,263'}
+{'listingId': '#49547', 'niche': 'Apparel & Accessories', 'monthlyNet': '$7,180', 'price': '$315,915'}
+{'listingId': '#50123', 'niche': 'Survival & Security', 'monthlyNet': '$7,167', 'price': '$308,170'}
+{'listingId': '#49098', 'niche': 'News & Education', 'monthlyNet': '$6,950', 'price': '$291,900'}
+{'listingId': '#47964', 'niche': 'Apparel & Accessories', 'monthlyNet': '$10,682', 'price': '$288,414'}
+{'listingId': '#49853', 'niche': 'Sports, Equipment', 'monthlyNet': '$6,153', 'price': '$283,027'}
+{'listingId': '#48053', 'niche': 'Equipment', 'monthlyNet': '$8,278', 'price': '$264,892'}
+{'listingId': '#49867', 'niche': 'Pet Care', 'monthlyNet': '$6,228', 'price': '$261,570'}
+{'listingId': '#50369', 'niche': 'Health & Fitness', 'monthlyNet': '$5,026', 'price': '$256,311'}
+{'listingId': '#50281', 'niche': 'Lifestyle, Travel, Health & Fitness, Finance', 'monthlyNet': '$5,558', 'price': '$255,650'}
+{'listingId': '#47238', 'niche': 'Home, Kitchenware', 'monthlyNet': '$9,267', 'price': '$240,932'}
+{'listingId': '#49969', 'niche': 'Supplements', 'monthlyNet': '$6,122', 'price': '$235,487'}
+{'listingId': '#49071', 'niche': 'Automotive', 'monthlyNet': '$6,653', 'price': '$232,862'}
+{'listingId': '#49587', 'niche': 'Home', 'monthlyNet': '$5,671', 'price': '$226,833'}
+{'listingId': '#49200', 'niche': 'Digital Media', 'monthlyNet': '$5,399', 'price': '$210,562'}
+{'listingId': '#49329', 'niche': 'Food & Beverages', 'monthlyNet': '$3,928', 'price': '$196,394'}
+{'listingId': '#49782', 'niche': 'Coupons', 'monthlyNet': '$4,770', 'price': '$190,784'}
+{'listingId': '#47473', 'niche': 'Health & Fitness', 'monthlyNet': '$5,747', 'price': '$178,162'}
+{'listingId': '#48396', 'niche': 'Technology, Outdoors, Automotive, Home', 'monthlyNet': '$5,898', 'price': '$176,947'}
+{'listingId': '#48250', 'niche': 'Information', 'monthlyNet': '$5,395', 'price': '$172,642'}
+{'listingId': '#49880', 'niche': 'Home', 'monthlyNet': '$5,629', 'price': '$140,717'}
+{'listingId': '#48559', 'niche': 'Information, News & Education, Legal', 'monthlyNet': '$2,873', 'price': '$137,904'}
+{'listingId': '#48286', 'niche': 'Home, Kitchenware', 'monthlyNet': '$3,756', 'price': '$131,465'}
+{'listingId': '#50173', 'niche': 'Home', 'monthlyNet': '$3,244', 'price': '$129,774'}
+{'listingId': '#48362', 'niche': 'Cryptocurrency', 'monthlyNet': '$3,540', 'price': '$127,424'}
+{'listingId': '#49783', 'niche': 'Home, Culinary, Lifestyle', 'monthlyNet': '$3,064', 'price': '$125,624'}
+{'listingId': '#48843', 'niche': 'Sports, Outdoors', 'monthlyNet': '$3,904', 'price': '$124,942'}
+{'listingId': '#49467', 'niche': 'Home', 'monthlyNet': '$3,403', 'price': '$112,296'}
+{'listingId': '#49022', 'niche': 'Automotive', 'monthlyNet': '$2,900', 'price': '$98,615'}
+{'listingId': '#48318', 'niche': 'Cryptocurrency', 'monthlyNet': '$2,964', 'price': '$91,884'}
+{'listingId': '#47531', 'niche': 'Home', 'monthlyNet': '$2,389', 'price': '$85,995'}
+{'listingId': '#50129', 'niche': 'Home', 'monthlyNet': '$1,950', 'price': '$85,800'}
+{'listingId': '#49935', 'niche': 'Equipment', 'monthlyNet': '$2,339', 'price': '$83,742'}
+{'listingId': '#47353', 'niche': 'Electronics', 'monthlyNet': '$2,556', 'price': '$81,782'}
+{'listingId': '#50239', 'niche': 'Home, Automotive, Technology', 'monthlyNet': '$2,101', 'price': '$77,754'}
+{'listingId': '#48983', 'niche': 'Home, Electronics', 'monthlyNet': '$3,041', 'price': '$76,015'}
+{'listingId': '#48487', 'niche': 'Equipment', 'monthlyNet': '$1,863', 'price': '$67,076'}
+{'listingId': '#49288', 'niche': 'Apparel & Accessories', 'monthlyNet': '$1,643', 'price': '$65,724'}
+{'listingId': '#49157', 'niche': 'Technology', 'monthlyNet': '$1,755', 'price': '$64,936'}
+{'listingId': '#50321', 'niche': 'Health & Fitness', 'monthlyNet': '$1,255', 'price': '$57,734'}
+{'listingId': '#49417', 'niche': 'Home', 'monthlyNet': '$1,926', 'price': '$48,152'}
+{'listingId': '#49532', 'niche': 'Health & Fitness', 'monthlyNet': '$952', 'price': '$40,947'}
+{'listingId': '#50365', 'niche': 'Home', 'monthlyNet': '$940', 'price': '$37,595'}
+{'listingId': '#49116', 'niche': 'Sports', 'monthlyNet': '$1,651', 'price': '$34,670'}
+{'listingId': '#49685', 'niche': 'Sports, Equipment', 'monthlyNet': '$897', 'price': '$34,076'}
